@@ -10,5 +10,4 @@ Uso esse espaço para minha organização e compartilhamento dos meus projetos d
 # Entre em contato comigo:
 
 00001089057192sp@al.educacao.sp.gov.br
-![]
-(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFkeDIydjA2dzhoMjVwZml5M3cyZG9ldmFkeGh6OTNwdHgwNTVmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DyQrKMpqkAhNHZ1iWe/giphy.gif)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFkeDIydjA2dzhoMjVwZml5M3cyZG9ldmFkeGh6OTNwdHgwNTVmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DyQrKMpqkAhNHZ1iWe/giphy.gif)
